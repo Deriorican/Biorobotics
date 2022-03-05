@@ -1,3 +1,5 @@
 E. Acome and others, "Hydraulically amplified self-healing electrostatic actuators with muscle-like performance" in Science 359 (6371), 61-65
 
 N. Kellaris, "Peano-HASEL actuators: Muscle-mimetic, electrohydraulic transducers that linearly contract on activation" in ScienceRobotics 3, eaar3276
+
+Philipp Rothemund, Nicholas Kellaris, Shane K. Mitchell, Eric Acome, and Christoph KeplingerHASEL Artificial Muscles for a New Generation of Lifelike Robots—Recent Progress and Future Opportunities
